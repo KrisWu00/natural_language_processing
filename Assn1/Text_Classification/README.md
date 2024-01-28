@@ -17,7 +17,7 @@ To set up the project environment, follow these steps:
 
 1. Clone the repository:
 ```
-git clone ```zihanwang00/nlp```
+gh repo clone KrisWu00/natural_language_processing
 ```
 2. Navigate to the project directory:
 ```
@@ -56,5 +56,5 @@ Contributions to this project are welcome. Please follow these steps to contribu
 
 For any queries regarding the project, please contact:
 
-Name: Yue (Kris) Wu
+Name: Yue (Kris) Wu \
 Email: wu.yue10@northeastern.edu
